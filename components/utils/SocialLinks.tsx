@@ -20,7 +20,7 @@ const SocialLinks = () => {
           key: 3,
           img: "/images/github.svg",
           name: "Github",
-          link: "https://github.com/pallaviDwivedi1605/",
+          link: "https://github.com/ipallavidwivedi/",
         },
       ];
   return (
